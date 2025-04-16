@@ -1,0 +1,15 @@
+1. Add admin panel
+        - Minimalistic design, add functions for updating name, role, etc...
+        - Need to only edit and update information.
+2. Expand the landing page (index.html)
+        - Add more information about the team.
+3. Add a contact form
+        - When clicking a button in the member card section, appear as a "window" (blurs the content behind) and there would be a email and message input field.
+4. Custom member designs
+        There are two ways, which are:
+            1. Using a separate html, css, and javascript (for organization, e.g. m-one.html, m-one.css, m-one.js)
+            2. Putting it all on one file (index.html)
+        Do the 1st one please tyty.
+5. Standardized Curriculum Vitae
+        - Rubric only says that you only need a summarized explanation of work experience and education attained.
+6. (If we use the 1st one in #5) Make the member card section clickable, and redirect to the member's page.
