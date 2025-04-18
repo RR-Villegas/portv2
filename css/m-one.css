@@ -70,4 +70,32 @@ body {
   .back-button:hover {
     background-color: #4752C4;
   }
+
+.project-list {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.project {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 180px;
+}
+
+.project-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.5);
+}
+
+.project-title {
+    margin-top: 0.5rem;
+    font-weight: bold;
+    text-align: center;
+    color: #ddd;
+}
   
